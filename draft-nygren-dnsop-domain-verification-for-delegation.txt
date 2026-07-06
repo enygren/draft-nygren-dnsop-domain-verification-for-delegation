@@ -4,8 +4,9 @@
 
 Domain Name System Operations                                  E. Nygren
 Internet-Draft                                       Akamai Technologies
-Intended status: Informational                               5 July 2026
-Expires: 6 January 2027
+Intended status: Informational                                  S. Huque
+Expires: 7 January 2027                                       Salesforce
+                                                             6 July 2026
 
 
              Domain Control Validation for DNS Delegations
@@ -66,7 +67,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 6 January 2027.
+   This Internet-Draft will expire on 7 January 2027.
 
 Copyright Notice
 
@@ -102,7 +103,7 @@ Table of Contents
      10.1.  Normative References
      10.2.  Informative References
    Appendix A.  Acknowledgments
-   Author's Address
+   Authors' Addresses
 
 1.  Introduction
 
@@ -460,8 +461,13 @@ Appendix A.  Acknowledgments
    Thank you to Peter Thomassen, ..., (add names here) for their
    feedback and suggestions on this document.
 
-Author's Address
+Authors' Addresses
 
    Erik Nygren
    Akamai Technologies
    Email: erik+ietf@nygren.org
+
+
+   Shumon Huque
+   Salesforce
+   Email: shuque@gmail.com
