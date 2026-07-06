@@ -32,6 +32,12 @@ author:
     email: erik+ietf@nygren.org
 
  -
+    ins: P. Thomassen
+    name: Peter Thomassen
+    organization: deSEC
+    email: peter@desec.io
+
+-
     ins: S. Huque
     name: Shumon Huque
     organization: Salesforce
