@@ -4,8 +4,10 @@
 
 Domain Name System Operations                                  E. Nygren
 Internet-Draft                                       Akamai Technologies
-Intended status: Informational                                  S. Huque
-Expires: 7 January 2027                                       Salesforce
+Intended status: Informational                              P. Thomassen
+Expires: 7 January 2027                                            deSEC
+                                                                S. Huque
+                                                              Salesforce
                                                              6 July 2026
 
 
@@ -466,6 +468,11 @@ Authors' Addresses
    Erik Nygren
    Akamai Technologies
    Email: erik+ietf@nygren.org
+
+
+   Peter Thomassen
+   deSEC
+   Email: peter@desec.io
 
 
    Shumon Huque

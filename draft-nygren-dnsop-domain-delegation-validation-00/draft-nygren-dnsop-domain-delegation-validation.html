@@ -6,6 +6,7 @@
 <meta content="initial-scale=1.0" name="viewport">
 <title>Domain Control Validation for DNS Delegations</title>
 <meta content="Erik Nygren" name="author">
+<meta content="Peter Thomassen" name="author">
 <meta content="Shumon Huque" name="author">
 <meta content="
        The techniques specified in   for using the DNS to verify ownership or control of a domain in the Domain Name System (DNS) rely on the domain already being properly delegated to a DNS authority. For the specific case where the Application Service Provider is providing authoritative DNS services, the existing approaches don't provide a way to bootstrap domain validation onto a new Authoritative DNS Application Service provider. 
@@ -1049,7 +1050,7 @@ svg {
 <td class="right">July 2026</td>
 </tr></thead>
 <tfoot><tr>
-<td class="left">Nygren &amp; Huque</td>
+<td class="left">Nygren, et al.</td>
 <td class="center">Expires 7 January 2027</td>
 <td class="right">[Page]</td>
 </tr></tfoot>
@@ -1074,6 +1075,10 @@ svg {
 <div class="author">
       <div class="author-name">E. Nygren</div>
 <div class="org">Akamai Technologies</div>
+</div>
+<div class="author">
+      <div class="author-name">P. Thomassen</div>
+<div class="org">deSEC</div>
 </div>
 <div class="author">
       <div class="author-name">S. Huque</div>
@@ -1527,6 +1532,14 @@ foo.example.  DELEG include-delegparam=config2.example.net. validation=&lt;uniqu
 <div class="email">
 <span>Email:</span>
 <a href="mailto:erik+ietf@nygren.org" class="email">erik+ietf@nygren.org</a>
+</div>
+</address>
+<address class="vcard">
+        <div dir="auto" class="left"><span class="fn nameRole">Peter Thomassen</span></div>
+<div dir="auto" class="left"><span class="org">deSEC</span></div>
+<div class="email">
+<span>Email:</span>
+<a href="mailto:peter@desec.io" class="email">peter@desec.io</a>
 </div>
 </address>
 <address class="vcard">
