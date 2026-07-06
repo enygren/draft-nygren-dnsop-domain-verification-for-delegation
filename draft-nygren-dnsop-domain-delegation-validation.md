@@ -1,6 +1,6 @@
 ---
 title: "Domain Control Validation for DNS Delegations"
-docname: draft-nygren-dnsop-domain-verification-for-delegation-latest
+docname: draft-nygren-dnsop-domain-delegation-validation-latest
 category: info
 
 ipr: trust200902
@@ -20,8 +20,8 @@ venue:
   type: "Working Group"
   mail: "dnsop@ietf.org"
   arch: "https://mailarchive.ietf.org/arch/browse/dnsop/"
-  github: "enygren/draft-nygren-dnsop-domain-verification-for-delegation"
-  latest: "https://enygren.github.io/draft-nygren-dnsop-domain-verification-for-delegation/draft-nygren-dnsop-domain-verification-for-delegation.html"
+  github: "enygren/draft-nygren-dnsop-domain-delegation-validation"
+  latest: "https://enygren.github.io/draft-nygren-dnsop-domain-delegation-validation/draft-nygren-dnsop-domain-delegation-validation.html"
 
 author:
 
